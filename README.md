@@ -4,6 +4,15 @@ A fun augmented reality game where you get to shoot down two different kinds of 
 ## Video Promo
 Click [HERE](https://youtu.be/tkRfcJJt_KU) to see promotional video on YouTube.
 
+## Installation
+```bash
+git clone https://github.com/mytechnotalent/BicoptAR.git
+cd BicoptAR
+```
+## Running
+
+Open project in Xcode and load to iPhone.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
